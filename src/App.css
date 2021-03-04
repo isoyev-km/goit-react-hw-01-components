@@ -1,0 +1,11 @@
+.profile {
+  width: 200px;
+  margin: 0 auto;
+  border: solid 2px rgb(223, 223, 223);
+  border-radius: 4px;
+  margin-top: 15px;
+}
+
+.statistics {
+  margin-top: 15px;
+}

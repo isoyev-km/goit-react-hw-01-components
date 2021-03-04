@@ -1,0 +1,29 @@
+.transaction {
+  color: black;
+  width: 700px;
+  border-collapse: collapse;
+  border: 1px solid grey;
+  text-align: center;
+  margin-bottom: 20px;
+  margin: 0 auto;
+}
+
+th {
+  border: 1px solid grey;
+  background-color: #486bac;
+  color: white;
+  font-weight: 600;
+  font-size: 15px;
+  padding: 5px 0 5px 0;
+}
+
+td {
+  border: 1px solid grey;
+  font-weight: 300;
+  font-size: 14px;
+  padding: 5px 0 5px 0;
+}
+
+tr:nth-child(even) {
+  background-color: #abc0e7;
+}
